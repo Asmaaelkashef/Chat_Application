@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "757143187725",
+    "project_id": "hello-chat-app-6ef71",
+    "storage_bucket": "hello-chat-app-6ef71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757143187725:android:a168f85e2db96e1f140044",
+        "android_client_info": {
+          "package_name": "com.example.hello_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAul_ijmq8fKGt-eXnfn4kbYwvjv-ogD2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
